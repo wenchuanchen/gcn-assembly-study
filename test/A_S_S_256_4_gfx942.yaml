@@ -1,0 +1,8 @@
+arch: gfx942
+func_name: AMax_Ti_S_To_S_Ts_F8_W_256_C_4
+io_type: S
+is_scale: true
+num_workitems: 256
+o_type: S
+op: AMax
+scale_type: F8
